@@ -1,0 +1,6 @@
+torch
+streamlit
+numpy
+matplotlib
+scikit-learn
+google-generativeai
