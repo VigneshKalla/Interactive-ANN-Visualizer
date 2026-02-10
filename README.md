@@ -1,4 +1,4 @@
-# **Interactive ANN Visualizer**
+# **🔗 Interactive ANN Visualizer**
 
 An educational web application that visualizes how Artificial Neural Networks (ANNs) learn, built with **PyTorch**, **Streamlit**, and powered by an **AI agent (Gemini)** for contextual explanations.
 
@@ -30,13 +30,13 @@ This application lets you:
 
 ---
 
-##  Installation
+##  🔗 Installation
 
 ### 1. Clone or Download
 
 ```bash
 # If using git
-git clone <repository-url>
+git clone <https://github.com/VigneshKalla/Interactive-ANN-Visualizer.git>
 cd <project-directory>
 
 # Or download and extract the ZIP file
@@ -196,7 +196,7 @@ project/
 
 ---
 
-## Educational Concepts
+## 🔗 Educational Concepts
 
 ### Why This Matters
 
@@ -266,7 +266,7 @@ Error communicating with Gemini: API key not valid
 
 ---
 
-##  Customization Ideas
+## 🔗  Customization Ideas
 
 ### Extend the Project
 
@@ -385,7 +385,7 @@ For questions or issues:
 
 ---
 
-## Acknowledgements
+## 🔗  Acknowledgements
 
 I would like to express my sincere gratitude to **Saxon K. Sha Sir** for his continuous technical guidance, **Lakshmi Vangapandu Mam** for her clear, supportive, and encouraging mentorship, and **Raghu Ram Aduri Sir** for his valuable managerial support and strategic direction throughout this project.
 
@@ -394,6 +394,6 @@ I am also thankful to **Innomatics Research Labs** for providing a structured, g
 
 ---
 
-**Happy Learning! 🚀**
+**Happy Learning!**
 
 *Remember: The best way to understand neural networks is to experiment. Try different configurations, observe what happens, and ask the chatbot to explain. That's what this tool is for.*
