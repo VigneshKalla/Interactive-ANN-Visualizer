@@ -240,12 +240,3 @@ Gratitude is extended to **Innomatics Research Labs**, and to **Vishwanath Nyath
 ## 12. License
 
 This project is released for **educational and academic use**.
-
-
-* Convert this into a **research-paper-style project report**
-* Add **mathematical formulation section**
-* Write an **evaluation/experiments section**
-* Create a **conference-poster abstract**
-* Align it with **IEEE / ACM format**
-
-Just tell me which one.
